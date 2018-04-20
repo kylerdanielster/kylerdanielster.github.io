@@ -16,6 +16,10 @@
   background-color: #000000;
 }
 
+.navbar-trans {
+  background: transparent; 
+  padding-bottom: 20px;
+}
 
 /* Main Styles
 ---------------------------------------------------*/
@@ -45,6 +49,13 @@ body {
   background-color: #ffffff; 
 }
 
+.yt-vid {
+  padding-bottom: 30px;
+}
+
+.yt-text {
+  padding-top: 10px;
+}
 
 /* Sticky footer styles
 -------------------------------------------------- */
